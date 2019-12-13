@@ -1,4 +1,4 @@
-public class Convertir {        // versión en español
+public class Convertir {       
     
     public static String decimalABinario(int numeroDecimal) {
         String numeroEnBinario = "";
