@@ -1,4 +1,4 @@
-public class Convert {
+public abstract class Convert {
     
     public static String decimalToBinary(int decimalNumber) {
         String binaryNumber = "";
